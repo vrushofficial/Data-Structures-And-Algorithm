@@ -1,6 +1,6 @@
 package tree;
 
-import Common.TreeNode;
+import common.TreeNode;
 
 public class BinaryTreeHeight {
 

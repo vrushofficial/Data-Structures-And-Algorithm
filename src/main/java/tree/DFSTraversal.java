@@ -1,6 +1,5 @@
 package tree;
 
-import javax.swing.tree.TreeNode;
 import java.util.ArrayList;
 import java.util.List;
 
